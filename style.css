@@ -1,0 +1,12 @@
+*{
+    font-family: "Poppins", sans-serif;
+    padding: 2px;
+    /* display: inline-block; */
+
+}
+button:hover{
+    background-color: black;
+    color:white;
+}
+
+html { scroll-behavior: smooth; }
